@@ -18,6 +18,7 @@ public class DayManager : MonoBehaviour
 
     void StartNewDay()
     {
+        Debug.Log("New day");
         ++_currDay;
         _currTime = DayTimeSeconds;
 

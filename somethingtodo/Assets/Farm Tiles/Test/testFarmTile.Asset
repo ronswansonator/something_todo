@@ -34,7 +34,7 @@ MonoBehaviour:
   m_Flags: 1
   m_ColliderType: 1
   GrowthLevels:
-  - Texture: {fileID: 21300000, guid: 49dd8c0f84a39d342ba3e64cff4fc81f, type: 3}
+  - Texture: {fileID: 21300008, guid: dac2364c73f6fc845b5bed30d00f0429, type: 3}
     DaysTillUpgrade: 0
-  - Texture: {fileID: 21300000, guid: 49dd8c0f84a39d342ba3e64cff4fc81f, type: 3}
+  - Texture: {fileID: 21300014, guid: dac2364c73f6fc845b5bed30d00f0429, type: 3}
     DaysTillUpgrade: 0

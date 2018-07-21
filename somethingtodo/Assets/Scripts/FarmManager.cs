@@ -59,5 +59,7 @@ public class FarmManager : MonoBehaviour
         {
             inst.currentDay += 1;
         }
+
+        FarmLayer.RefreshAllTiles();
     }
 }
