@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Farm
+  m_Name: Farm Dirt
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: e7aaed436c5163744910b3c8051f71d7, type: 3}
   m_Color: {r: 0.2735849, g: 0.18712175, b: 0.18712175, a: 1}

@@ -7,9 +7,9 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: diamondTile
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34560723eace58f49b0567a8c34e15ce, type: 3}
+  m_Name: testFarmTile
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: 49dd8c0f84a39d342ba3e64cff4fc81f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -32,4 +32,9 @@ MonoBehaviour:
     e33: 1
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
-  m_ColliderType: 0
+  m_ColliderType: 1
+  GrowthLevels:
+  - Texture: {fileID: 21300000, guid: 49dd8c0f84a39d342ba3e64cff4fc81f, type: 3}
+    DaysTillUpgrade: 0
+  - Texture: {fileID: 21300000, guid: 49dd8c0f84a39d342ba3e64cff4fc81f, type: 3}
+    DaysTillUpgrade: 0
